@@ -48,3 +48,9 @@ You can use FEN notation to record and share specific chess positions and use th
 
 ## Screenshot
 Here we have project screenshot :
+### example_1:
+
+### example_2{set position}:
+
+### example_3{flip board}:
+
